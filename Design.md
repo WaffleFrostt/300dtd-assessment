@@ -23,7 +23,7 @@ Notes are not secure enough. Anyone with access to your phone can see all your p
 
 Three words: master password protection. It needs to be super secure, no password recovery, erases all data after 10 failed attempts. Shows the failed attempt count. Must be simple and aesthetic. 
 
-First opened, prompted for Master Password or account creation. The account creation consists of a username and master password of choice. Notes are stored under corresponding users. Master Password starting page much like Bitwarden, no access to anything notes-wise until the password is input. Notes are organised into folders and can add and delete notes, notes must also be able to be modified.    
+First opened, prompted for Master Password or account creation. The account creation consists of a username and master password of choice. Notes are stored under corresponding users. Master Password starting page much like Bitwarden, no access to anything notes-wise until the password is input. Notes are organised into folders and can add and delete notes, notes must also be able to be modified.
 
 
 -------------------------------------------------
