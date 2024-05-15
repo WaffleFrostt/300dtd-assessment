@@ -1,8 +1,8 @@
 # Development of a Database-Driven Web Application for NCEA Level 3
 
-Project Name: **PROJECT NAME HERE**
+Project Name: **Secure Notes**
 
-Project Author: **YOUR NAME HERE**
+Project Author: **Tom Meldrum**
 
 Assessment Standards: **91902** and **91903**
 
