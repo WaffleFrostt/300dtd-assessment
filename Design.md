@@ -17,13 +17,13 @@ Notes are not secure enough. Anyone with access to your phone can see all your p
 
 ### End-User Requirements
 
-My mum (Andrea) is the end user. She deals with blind clients and takes lots of notes on a work phone. But it tends to be quite sensitive information, and all work phones have the same password accross all spheres of the organisation, even those in different fields to her. The simple notes app on these phones is the most convenient for client notes, 
+My mum (Andrea) is the end user. She deals with blind clients and takes lots of notes on a work phone. But it tends to be quite sensitive information, and all work phones have the same password across all spheres of the organisation, even those in different fields to her. The simple notes app on these phones is the most convenient for client notes, but is super insecure. Even just a single custom password as a wall between the phone and the notes would be a huge win. Her clients deserve their confidential information to remain secure. 
 
 ### Proposed Solution
 
 Three words: master password protection. It needs to be super secure, no password recovery, erases all data after 10 failed attempts. Shows the failed attempt count. Must be simple and aesthetic. 
 
-First opened, prompted for Master Password or account creation. The account creation consists of a username and master password of choice. Notes are stored under corresponding users. Master Password starting page much like Bitwarden, no access to anything notes-wise until the password is input. Notes are organised into folders and can add and delete notes, notes must also be able to be modified.
+First opened, prompted for Master Password or account creation. The account creation consists of a username and master password of choice. Notes are stored under corresponding users. Master Password starting page much like Bitwarden, no access to anything notes-wise until the password is input. Notes are organised into folders and can add and delete notes, notes must also be able to be modified. It's also just as important for the notes app to remain as simple ass possible. Its made for quick notes, so it must be efficient to use and have as little on the UI as possible, whilst remaining at full functionality. 
 
 
 -------------------------------------------------
