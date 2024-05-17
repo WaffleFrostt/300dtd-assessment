@@ -34,25 +34,25 @@ First opened, prompted for Master Password or account creation. The account crea
 
 Usability is a simple yet crucial part of a site/app. This defines how simple it is for the user to traverse the site. 
 
-This app is made for quick notes, so it is crucial it is 
+This app is made for quick notes, so it is crucial it is simple and quick to just get the words down. 
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+Keep features easy to access. Everything should be accessible from the home page. 
 
-### IMPLICATION NAME HERE
+### Flexibility and Efficiency of Use
 
-Replace this text with a clear explanation of what the implication means.
+How the website can be used in numerous ways to create the most efficient experience. 
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+The notes must be able to be accessed from anywhere, and must be able to create a new note from anywhere. I must be able to balance security and ease of use. 
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+Everything must link back to the home page, and never be in too deep to any one function. Backing out must be as easy as going in. The interface must also be as open plan as possible. 
 
-### IMPLICATION NAME HERE
+### Aesthetic and Minimalist Design
 
-Replace this text with a clear explanation of what the implication means.
+A good looking and uncomplicated UI. 
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+It is crucial this app contains the least amount of headaches as possible. If this app is to be effective, it needs to be so usable that the end user wants to use it.   
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+The design will be simple and clean. It will have as little unnecessary features as possible, while maintaining a functioning and minimalist design. This will ensure the site is wanted to be used over the competition (regular notes app). Alongside my security feature, as long as my site is minimalist enough to fit its simple purpose, it will be desirable to the end user.
 
 
 -------------------------------------------------
