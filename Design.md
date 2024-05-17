@@ -59,11 +59,11 @@ The design will be simple and clean. It will have as little unnecessary features
 
 ## Relevant User Experience (UX) Principles
 
-### UX PRINCIPLE NAME HERE
+### User-centricity
 
-Replace this text with a clear explanation of what the UX design principle means.
+User-centricity means building the site around the user. Think like a user when designing etc.
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+The entire point of this notes app is something that closely resembles the regular notes app, just with an added feature of security. Building around the user will give them the closest match to what they've been previously used to.
 
 Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
 
