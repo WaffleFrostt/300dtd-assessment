@@ -65,23 +65,23 @@ User-centricity means building the site around the user. Think like a user when 
 
 The entire point of this notes app is something that closely resembles the regular notes app, just with an added feature of security. Building around the user will give them the closest match to what they've been previously used to.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will take inspiration from the native notes app, and build around using the heuristics it follows to ensure a user central interface. 
 
-### UX PRINCIPLE NAME HERE
+### Usability 
 
-Replace this text with a clear explanation of what the UX design principle means.
+How easy the app is to use. Good user experience needs to be usable. 
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+It needs to be simple and usable because the use is quickly scribing notes down. It must be hardly less usable than writing on a piece of paper.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will need to keep features easy to understand and come as naturally as possible. They must work, and they must work how you would expect. 
 
-### UX PRINCIPLE NAME HERE
+### Consistency
 
-Replace this text with a clear explanation of what the UX design principle means.
+Keeping the design consistent across all pages and actions. Both in look and function. 
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+Because simplicity is key for my project consistency is important. As notes apps are very formularised already, this app will need to meet that expectation and remain consistent throughout. 
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will keep consistent to the general look and function of a notes app, so it is expected by the user. But I will also keep the look consistent with colours and layout. That way, the user subconsciously knows how to traverse the site without needing to put much thought into it.  
 
 
 -------------------------------------------------
