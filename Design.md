@@ -93,7 +93,11 @@ Because simplicity is key for my project consistency is important. As notes apps
 I will keep consistent to the general look and function of a notes app, so it is expected by the user. But I will also keep the look consistent with colours and layout. That way, the user subconsciously knows how to traverse the site without needing to put much thought into it.  
 
 
+### Findable
 
+Systems are easy to navigate so the users are able to access and find the content they need.
+
+My notes app is based on the business model of fast and easy phone access. That means that each section should be where you would commonly expect it to be. 
 
 
 -------------------------------------------------
