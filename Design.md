@@ -99,6 +99,8 @@ Systems are easy to navigate so the users are able to access and find the conten
 
 My notes app is based on the business model of fast and easy phone access. That means that each section should be where you would commonly expect it to be. 
 
+This should be contingent on other notes apps so the layout is previously familiar to a degree. I will also have clearly laid out pages with large headings at the top to show exactly where the user is on the app. 
+
 
 -------------------------------------------------
 -------------------------------------------------
