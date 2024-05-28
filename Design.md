@@ -106,13 +106,13 @@ This should be contingent on other notes apps so the layout is previously famili
 -------------------------------------------------
 
 ## Final System Design
-
+![alt text](<images/Notes App Layout.png>)
 ### Database Structure
 
 Place a image here that shows the *final design* of your database: tables, fields and relationships.
 
 ### User Interface Design
-
+![alt text](<images/Database.png>)
 Place images here that show your *final design* of your UI: layout, colours, etc.
 
 
