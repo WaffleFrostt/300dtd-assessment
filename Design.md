@@ -128,7 +128,7 @@ Place a image here that shows the *actual database structure* that you implement
 
 Place screenshots and notes here that show your *actual system UI* in action.
 
-
+![Alt text](<Screenshot 2024-05-31 144142.png>)
 -------------------------------------------------
 
 ## Review and Evaluation
