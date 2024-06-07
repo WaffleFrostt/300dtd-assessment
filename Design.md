@@ -128,7 +128,6 @@ Place a image here that shows the *actual database structure* that you implement
 
 Place screenshots and notes here that show your *actual system UI* in action.
 
-![Alt text](<images/1st Figma.png>)
 -------------------------------------------------
 
 ## Review and Evaluation
