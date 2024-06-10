@@ -11,63 +11,66 @@ Assessment Standards: **91902** and **91903**
 
 ## Design, Development and Testing Log
 
-### DATE HERE
+
+### 20th May 2024
 
 Initial Sketch
 
-The end user said this has potential. But they want folders as a feature and to see a more full fledged design. 
+Created the initial sketch of the Secure Notes app layout. The design includes basic navigation, note list, and a simple note editor.
 
-> Replace this text with any user feedback / comments
+The end user (Andrea) mentioned that the sketch looks promising. However, she suggested adding folders to organise notes better as it would help manage different categories of notes more efficiently.
 
-Replace this text with notes describing how you acted upon the user feedback: made changes to design, etc.
+To accommodate the feedback, I will incorporate folders in the design, providing users the ability to categorise notes under different sections. This feature will enhance the organisation and usability of the app.
 
-### DATE HERE
-![alt text](<images/Notes App Layout.png>)
 
-Replace this test with what you are working on
+### 23rd May 2024
 
-![alt text](<images/Database.png>)
+Revised Design with Folders
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+Updated the design to include folders for better note organisation. Added an additional navigation panel to access different folders.
 
-> Replace this text with any user feedback / comments
+The end user appreciated the inclusion of folders, noting it added to the app's functionality. They also suggested a feature to quickly search for notes within specific folders.
 
-Replace this text with notes describing how you acted upon the user feedback: made changes to design, etc.
+Based on the feedback, I will add a search functionality within the folders. This will allow users to locate notes quickly, improving the overall user experience.
+![Alt text](<images/1st Figma.png>)
+![Alt text](<images/Notes App Layout.png>)
 
-### DATE HERE
 
-Replace this test with what you are working on
+### 28th May 2024
 
-![alt text](<images/1st Figma.png>)
+Database Design
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+Designed the database structure to store user information and notes. The database includes tables for users, notes, and folders.
 
-> Replace this text with any user feedback / comments
+The end user emphasised the importance of ensuring data security in the database, suggesting encryption for sensitive information and a mechanism to handle failed login attempts securely.
 
-Replace this text with notes describing how you acted upon the user feedback: made changes to design, etc.
+I will implement encryption for the note content and user credentials. Additionally, I will add a feature to track and limit failed login attempts, with a lockout mechanism to protect against brute-force attacks.
+![Alt text](images/Database.png)
 
-### DATE HERE
 
+### 5th June 2024
+
+Second Figma Prototype
+
+Refined the Figma prototype with a focus on color scheme and added a light mode option based on feedback.
+
+The end user appreciated the inclusion of light mode, highlighting its importance for accessibility. They suggested providing an easy toggle between light and dark modes to accommodate different user preferences.
+
+I will implement a light mode and dark mode toggle feature, allowing users to switch modes seamlessly. This will cater to different lighting conditions and user preferences.
 ![Alt text](<images/2nd Figma.png>)
 ![Alt text](images/colour.png)
 
-Replace this test with what you are working on
 
-End user said that I need a light mode too, to make it customisable. I inverted the image just for show, they liked it and wished to see it as a feature. 
+### 9th June 2024
 
-> Replace this text with any user feedback / comments
+In-App Note Creation Enhancement
 
-Replace this text with notes describing how you acted upon the user feedback: made changes to design, etc.
+Implemented an enhancement where users can add a new note directly while viewing an existing note by clicking a plus symbol.
 
-### DATE HERE
+The end user liked the idea of adding new notes on the fly. They mentioned that it would be useful when needing to jot down quick notes without navigating away from the current note.
 
-Replace this test with what you are working on
+I will ensure the plus symbol is prominently placed and easily accessible within the note view, allowing for quick note creation. This feature will enhance the app's efficiency and user experience.
 
-I asked end user about adding a plus symbol to add another note while already inside of a note. I thought of this idea to keep in context with 
-
-> Replace this text with any user feedback / comments
-
-Replace this text with notes describing how you acted upon the user feedback: made changes to design, etc.
 
 ### DATE HERE
 
