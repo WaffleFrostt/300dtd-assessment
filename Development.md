@@ -46,6 +46,7 @@ The end user emphasised the importance of ensuring data security in the database
 
 I will implement encryption for the note content and user credentials. Additionally, I will add a feature to track and limit failed login attempts, with a lockout mechanism to protect against brute-force attacks.
 ![Alt text](images/Database.png)
+![Alt text](images/DrawSQL.png)
 
 
 ### 5th June 2024
@@ -57,6 +58,7 @@ Refined the Figma prototype with a focus on color scheme and added a light mode 
 The end user appreciated the inclusion of light mode, highlighting its importance for accessibility. They suggested providing an easy toggle between light and dark modes to accommodate different user preferences.
 
 I will implement a light mode and dark mode toggle feature, allowing users to switch modes seamlessly. This will cater to different lighting conditions and user preferences.
+![Alt text](image.png)
 ![Alt text](<images/2nd Figma.png>)
 ![Alt text](images/colour.png)
 
@@ -67,7 +69,7 @@ In-App Note Creation Enhancement
 
 Implemented an enhancement where users can add a new note directly while viewing an existing note by clicking a plus symbol.
 
-The end user liked the idea of adding new notes on the fly. They mentioned that it would be useful when needing to jot down quick notes without navigating away from the current note.
+The end user liked the idea of adding new notes on the fly. They mentioned that it would be useful when needing to jot down quick notes without navigating away from the current note. The end user had a look back at the figma, and wanted to see a colour scheme for the light theme. 
 
 I will ensure the plus symbol is prominently placed and easily accessible within the note view, allowing for quick note creation. This feature will enhance the app's efficiency and user experience.
 
