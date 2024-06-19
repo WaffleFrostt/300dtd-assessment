@@ -1,7 +1,7 @@
 <!-- Default page layout with header / footer / nav -->
 
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en">
 
     <?php require '_head.php'; ?>
 
@@ -15,8 +15,8 @@
         
         </main>
 
-        <?php require '_footer.php'; ?>    
-            
+        <?php require '_footer.php'; ?>   
+
     </body>
 
 </html>

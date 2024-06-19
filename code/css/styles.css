@@ -5,15 +5,6 @@
     --accent-color:      var(--pico-color-pumpkin);
 
     --link-active-color: var(--accent-color);
-
-    --route-color:       var(--pico-muted-color);
-    --route-param-color: var(--pico-primary);
-    --route-value-color: var(--accent-color);
-
-    --danger-color:      var(--pico-del-color);
-
-    --h2-color:          var(--pico-primary);
-    --h3-color:          var(--pico-secondary);
 }
 
 
@@ -23,21 +14,9 @@ body {
     min-height: 100vh;
 }
 
-
-/* TEXT ---------------------------------------- */
-
-h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 1.2em;
+h2, h3, h4 {
     text-align: center;
 }
-
-:is(h1, h2, h3, h4, h5, h6):not(:first-child) {
-    margin-top: 2em;
-}
-
-h2 { color: var(--h2-color); }
-h3 { color: var(--h3-color); }
-
 
 
 /* HEADER ---------------------------------------- */
@@ -96,15 +75,6 @@ main {
     max-width: 60rem;
 }
 
-main.hero {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 2rem;
-}
-
 
 /* LAYOUT ---------------------------------------- */
 
@@ -119,38 +89,3 @@ article {
     min-height: 6rem;
 }
 
-article:only-of-type {
-    max-width: 30rem;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-article :is(h1, h2, h3, h4, h5, h6) {
-    text-align: left;
-    color: unset;
-}
-
-
-/* EXAMPLES ---------------------------------------- */
-
-ul.routes {
-    font-weight: bold;
-    font-family: monospace;
-    font-size: var(--font-size);
-    color: var(--route-color);
-}
-
-ul.routes em {
-    font-style: normal;
-    color: var(--route-param-color);
-}
-
-ul.routes strong {
-    font-style: normal;
-    color: var(--route-value-color);
-}
-
-button.danger {
-    background-color: var(--danger-color);
-    border-color: var(--danger-color);
-}
