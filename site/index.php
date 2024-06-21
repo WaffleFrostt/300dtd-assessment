@@ -25,6 +25,7 @@ $router->route(GET, PAGE, '/about', 'pages/about.php');
 $router->route(GET, PAGE, '/test', 'pages/test.php');
 
 $router->route(GET,    HTMX, '/info',    'components/info.php');
+$router->route(GET,    HTMX, '/password-strength',    'components/password-strength.php');
 
 
 //-------------------------------------------------------------
