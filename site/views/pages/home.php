@@ -1,22 +1,16 @@
-<!-- <h2>Create a Master Password</h2>
-<br>
-</br>
-<h4>To access notes, please select a master password:</h4>
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Password strength checker</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"> <!-- <link rel="stylesheet" href="./css/style.css"> -->
 
-<form action="/notes" method="post">
-    <input type="password" name="password" id="password" required>  
-
-    <div id="password-strength" hx-get="/password-strength" hx-trigger="input">
-        <div id="password-strength-bar" style="width: 0%"></div>    
-    </div>
-    <button type="submit">Submit</button>
- -->
-
- <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"> 
-<link rel="stylesheet" href="passwordstyles.css">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<head>
+<!--     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"> -->
     <script src="https://kit.fontawesome.com/1c2c2462bf.js" crossorigin="anonymous"></script>
-    <script src="password.js"></script> 
 </head>
 
 <body>
@@ -97,3 +91,9 @@
     </div>
 <!--     <script src="main.js"></script> -->
 </body>
+<!-- partial -->
+  <script  src="./js/script.js"></script>
+
+</body>
+</html>
+
