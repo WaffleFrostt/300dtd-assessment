@@ -1,4 +1,4 @@
-<h2>TEST!!</h2>
+<h2>Yes? Or No?</h2>
 
 <article
             hx-get="/info"

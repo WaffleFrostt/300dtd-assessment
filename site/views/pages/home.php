@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Password strength checker</title>
+  <title>Create a Master Password</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"> <!-- <link rel="stylesheet" href="./css/style.css"> -->
 
 </head>
@@ -25,6 +25,7 @@
                 </div>
                 
                 <!-- Password input-->
+               
                 <div class="form-group">
                     <label class="col-md-12 control-label" for="passwordinput">
                         Password
@@ -33,6 +34,7 @@
                         <input id="password" class="form-control input-md"
                         name="password" type="password" 
                         placeholder="Enter your password" >
+
                         <span class="show-pass" onclick="toggle()">
                             <i class="far fa-eye" onclick="myFunction(this)"></i>
                         </span>
@@ -82,7 +84,9 @@
                 <div class="form-group">
                     <a href="#" class="btn login-btn btn-block">
                         Submit
-                    </a>    
+                    </a>   
+                    
+                    <!-- working submit button that  -->
                 </div>
                     <div class="divider"></div>
                 </div>
