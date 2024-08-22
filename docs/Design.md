@@ -105,62 +105,69 @@ This should be contingent on other notes apps so the layout is previously famili
 -------------------------------------------------
 -------------------------------------------------
 
-## Final System Design
+#### **Final System Design**
 
-### Database Structure
+### **Database Structure**
 
-Place a image here that shows the *final design* of your database: tables, fields and relationships.
+Place a image here that shows the **final design** of your database: tables, fields and relationships.
 
-### User Interface Design
+![alt text](image.png)
+**User Interface Design**
 
-Place images here that show your *final design* of your UI: layout, colours, etc.
+Place images here that show your **final design** of your UI: layout, colours, etc.
 
+![alt text](image-1.png)
 
--------------------------------------------------
+- **------------------------------------------------**
 
-## Completed System
+## **Completed System**
 
-### Database Structure
+### **Database Structure**
 
-Place a image here that shows the *actual database structure* that you implemented: tables, fields and relationships.
+Place a image here that shows the **actual database structure** that you implemented: tables, fields and relationships.
 
-### User Interface Design
+![alt text](<Screenshot 2024-08-22 153846.png>)
 
-Place screenshots and notes here that show your *actual system UI* in action.
+### **User Interface Design**
 
--------------------------------------------------
+Place screenshots and notes here that show your **actual system UI** in action.
+
+![alt text](<Screenshot 2024-08-22 152729.png>)
+
+![alt text](<Screenshot 2024-08-22 152833.png>)
+
+![alt text](<Screenshot 2024-08-22 152958.png>)
+
+![alt text](<Screenshot 2024-08-22 153127.png>)
+
+![alt text](<Screenshot 2024-08-22 153241.png>)
+
+![alt text](<Screenshot 2024-08-22 153350.png>)
 
 ## Review and Evaluation
 
 ### Meeting the Needs of the Users
 
-Replace this text with a brief evaluation of how well you met the needs of your users. Look at what you initially wrote about who they are, what specific needs they have, etc. and discuss how well the system meets those needs.
+Primary end user Andrea needed a secure yet efficient way to store and manage info on clients for her work phone. I provided this with a hash encrypted accounts with no way to see any stored notes without it. The session was also used to ensure no backdoor access was possible. The apps design is simple and quick to use, following from a typical notes app layout for ease of use for any user. Editing notes could not be easier, all done within the view, no need to go through multiple pages, its all right there. All while being secure makes this notes app a valuable product to meet the end user requirements.
 
 ### Meeting the System Requirements
 
-Replace this text with a brief evaluation of how well you met the requirements that you defined at the start of the project, etc. Look back at the list of features / functionality you initially set and discuss how well your system has implemented each one.
+The system requirements were directed at creating a secure minimalist notes app. Features include account creation, folder creation, complete freedom of notes editing and deletion, and a simple yet clean interface. Features such as the light to dark mode toggle were removed due to difficulty to implement to an acceptable level, and it wasn’t a particularly useful or necessary feature, while being one that took up space on the screen taking away from the minimalism across the pages. The password strength test indicator was also removed despite me getting it working. I felt it was not important, and wanted to give users the change to have a short simple pin like password, for ease of access. Despite the changes, this design meets the system requirements. 
 
-### Review of IMPLICATION NAME HERE
+### Review of **Privacy**
 
-Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+Privacy was a key focus throughout creating this project right from the get go. The system was designed to take into account all user data is protected. Anyone could access the phones of the users, but with the security of the account system, it is too difficult to be worth accessing considering the end user requirements. This ensures that the data is almost certainly secure. Special care was taken to ensure there was no backdoor accessing to anything. I stores the login in the session, and made each link only accessible if it matched up with the session. After closed, the user must sign back in. 
 
-### Review of IMPLICATION NAME HERE
+### Review of **Usability**
 
-Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+Usability was also a main consideration in the creation of the project. The app was designed specifically to make sense, and be straightforward, because it didn’t need to be more than that. I wanted everything to be available within one click from the home page, and that was achieved. The user interface was clear, giving users the option to quickly create, view, and edit notes. Including just one page with the notes within the folders and not one pager for folders and one fore notes was a success in ensuring simplicity and efficiency. Screenshots of the final design show this, every page s shown in the screenshot, yet all the features the users need are present. 
 
-### Review of IMPLICATION NAME HERE
+### Review of **Consistency**
 
-Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+Consistency was maintained across the apps design and functions. The back buttons are in the same place, and any submits remain central and blow the content. Pages are much the same in look, and features work in accord to each other. Consistency is important, as the end user stated they do not wish to spend time figuring it out, it should come naturally and be super quick to use if it wishes to achieve its goal. All shown in screenshots. 
 
-### Review of UX PRINCIPLE NAME HERE
+### Review of **User-centricity**
 
-Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+The design was heavily user centred. The design was modelled after existsing notes apps to keep the familiarity, but then added security on top. Choices to prioritise dark mode, and simplify the UI were on direct end user feedback.
 
-### Review of UX PRINCIPLE NAME HERE
-
-Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
-
-### Review of UX PRINCIPLE NAME HERE
-
-Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
-
+---
