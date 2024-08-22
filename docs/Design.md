@@ -111,12 +111,12 @@ This should be contingent on other notes apps so the layout is previously famili
 
 Place a image here that shows the **final design** of your database: tables, fields and relationships.
 
-![alt text](image.png)
+![alt text](images/image.png)
 **User Interface Design**
 
 Place images here that show your **final design** of your UI: layout, colours, etc.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 - **------------------------------------------------**
 
@@ -126,23 +126,23 @@ Place images here that show your **final design** of your UI: layout, colours, e
 
 Place a image here that shows the **actual database structure** that you implemented: tables, fields and relationships.
 
-![alt text](<Screenshot 2024-08-22 153846.png>)
+![alt text](<images/Screenshot 2024-08-22 153846.png>)
 
 ### **User Interface Design**
 
 Place screenshots and notes here that show your **actual system UI** in action.
 
-![alt text](<Screenshot 2024-08-22 152729.png>)
+![alt text](<images/Screenshot 2024-08-22 152729.png>)
 
-![alt text](<Screenshot 2024-08-22 152833.png>)
+![alt text](<images/Screenshot 2024-08-22 152833.png>)
 
-![alt text](<Screenshot 2024-08-22 152958.png>)
+![alt text](<images/Screenshot 2024-08-22 152958.png>)
 
-![alt text](<Screenshot 2024-08-22 153127.png>)
+![alt text](<images/Screenshot 2024-08-22 153127.png>)
 
-![alt text](<Screenshot 2024-08-22 153241.png>)
+![alt text](<images/Screenshot 2024-08-22 153241.png>)
 
-![alt text](<Screenshot 2024-08-22 153350.png>)
+![alt text](<images/Screenshot 2024-08-22 153350.png>)
 
 ## Review and Evaluation
 

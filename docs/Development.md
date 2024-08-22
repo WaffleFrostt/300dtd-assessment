@@ -135,7 +135,7 @@ $stmt = $db->prepare('DELETE FROM folders WHERE id = ? AND user_id = ?');
 $stmt->execute([$folderId, $userId]);
 ```
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ### **July 25th:**
 
