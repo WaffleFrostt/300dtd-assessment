@@ -1,0 +1,187 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #1f1f1f;
+    padding: 1em;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+header button {
+    padding: 0.5em 1em;
+    background-color: #f44336;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+header button:hover {
+    background-color: #d32f2f;
+}
+
+main {
+    flex: 1;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 1em;
+    /* Align form to the top */
+    background-color: #1f1f1f;
+    padding: 1.5em;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    /* Ensures padding is included in the element's width and height */
+}
+
+label {
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    color: #f0f0f0;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="username"] {
+    width: 100%;
+    padding: 0.75em;
+    margin-bottom: 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #f0f0f0;
+    font-size: 1em;
+    box-sizing: border-box;
+    /* Ensures padding is included in the element's width */
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="username"]:focus {
+    outline: none;
+    border: 1px solid #f44336;
+}
+
+button[type="submit"] {
+    padding: 0.75em 1.5em;
+    background-color: #f44336;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 1em;
+    display: block;
+    width: 100%;
+}
+
+button[type="submit"]:hover {
+    background-color: #d32f2f;
+}
+
+a {
+    color: #f44336;
+    margin-top: 1em;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+a:hover {
+    color: #d32f2f;
+}
+
+/* Toggle Light/Dark Mode */
+.light-mode {
+    background-color: #f0f0f0;
+    color: #121212;
+}
+
+.light-mode header {
+    background-color: #fff;
+}
+
+.light-mode form {
+    background-color: #fff;
+}
+
+.light-mode label {
+    color: #121212;
+}
+
+.light-mode input[type="text"],
+.light-mode input[type="password"],
+.light-mode input[type="username"] {
+    background-color: #fff;
+    color: #121212;
+}
+
+.light-mode button[type="submit"] {
+    background-color: #f44336;
+}
+
+.light-mode a {
+    color: #f44336;
+}
+
+.light-mode a:hover {
+    color: #b71c1c;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #f0f0f0;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 480px) {
+    form {
+        padding: 1em;
+        /* Adjust padding for smaller screens */
+    }
+
+    input[type="text"],
+    input[type="password"],
+    input[type="username"] {
+        padding: 0.6em;
+        /* Slightly reduce padding for mobile */
+        font-size: 0.9em;
+        /* Slightly reduce font size for mobile */
+    }
+
+    button[type="submit"] {
+        padding: 0.75em;
+        /* Maintain padding for consistency */
+        font-size: 1em;
+        /* Ensure the button text remains legible */
+    }
+
+    label {
+        font-size: 1em;
+        /* Adjust label size for mobile */
+    }
+}
