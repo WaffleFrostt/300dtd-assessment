@@ -8,6 +8,9 @@ Assessment Standards: **91902** and **91903**
 
 
 -------------------------------------------------
+## LOGIN: 
+##      username: tmel
+##      password: ap9dYt#s
 
 ## Design, Development and Testing Log
 
